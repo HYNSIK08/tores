@@ -1,0 +1,27 @@
+.Editor{
+    background-color:beide;
+    width: 100%;
+    align-item:center;
+    padding-bottom: 30px;
+}
+.Editor input{
+    boder: 3px dashed green;
+    padding: 7px;
+    width:300px;
+    margin-right: 15px;
+
+}
+.Editor input:focus{
+    outline:none;
+    background-color:lightgreen;
+    font-size:18px;
+}
+.Editor button{
+    cursor:pointer;
+    width:70px;
+    boder:none;
+    background-color:green;
+    color:aliceblue;
+    padding:7px;
+    boder-radius:5px;
+}

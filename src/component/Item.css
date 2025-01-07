@@ -1,0 +1,17 @@
+.Item{
+    width:450px;
+    display:flex;
+    justify-content:space-around;
+    boder-buttom:1px solid lightgray;
+}
+.Item .date{
+    font-size:16px;
+    color:gray;
+}
+.Item .btn{
+    cursor:pointer;
+    color:gray;
+    boder:none;
+    boder-radius:5px;
+    padding:5px;
+}
